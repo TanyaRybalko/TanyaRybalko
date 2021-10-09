@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TanyaRybalko
-- 🌱 I’m currently learning Java, JS.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on interesting tasks.
 - 📫 How to reach me: RybalkoTA2@gmail.com 
 - 👀 https://www.linkedin.com/in/trybalko/  Don't hesistant to add me in your contacts! :)
